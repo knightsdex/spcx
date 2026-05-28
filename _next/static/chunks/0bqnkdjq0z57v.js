@@ -4044,7 +4044,7 @@
     "use strict";
     var t = e.i(77117),
       r = e.i(91983);
-    let i = "0xComingSoon",
+    let i = "0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
       a = [
         {
           label: "Total Supply",
@@ -4889,11 +4889,11 @@
                         children: [
                           {
                             label: "DexScreener",
-                            href: "https://dexscreener.com/ethereum/0xComingSoon",
+                            href: "https://dexscreener.com/ethereum/0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
                           },
                           {
                             label: "Solscan Pool",
-                            href: "https://solscan.io/account/0xComingSoon",
+                            href: "https://solscan.io/account/0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
                           },
                         ].map((e) =>
                           (0, t.jsxs)(
@@ -8300,7 +8300,7 @@ The colony is waiting for the ones who caught the signal.`,
                             ],
                           }),
                           (0, t.jsxs)("a", {
-                            href: "https://app.coinsult.net/sol/0xComingSoon",
+                            href: "https://app.coinsult.net/sol/0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -8518,7 +8518,7 @@ The colony is waiting for the ones who caught the signal.`,
         id: "dexscreener",
         label: "DexScreener",
         sublabel: "CHART & TRADING",
-        href: "https://dexscreener.com/ethereum/0xComingSoon",
+        href: "https://dexscreener.com/ethereum/0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
         color: "#fbbf24",
         glow: "rgba(251,191,36,.2)",
         status: "live",
@@ -8557,7 +8557,7 @@ The colony is waiting for the ones who caught the signal.`,
         id: "mobyscreener",
         label: "MobyScreener",
         sublabel: "CHART & ANALYTICS",
-        href: "https://www.mobyscreener.com/ethereum/0xComingSoon",
+        href: "https://www.mobyscreener.com/ethereum/0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
         color: "#22d3ee",
         glow: "rgba(34,211,238,.2)",
         status: "live",
@@ -9865,7 +9865,7 @@ The colony is waiting for the ones who caught the signal.`,
     "use strict";
     var t = e.i(77117),
       r = e.i(91983);
-    let i = "0xComingSoon",
+    let i = "0xcb891c8f1e3a4d04229e4d871dc27124411d8952",
       a = "#4fc3f7",
       n = "rgba(79,195,247,";
     e.s([
